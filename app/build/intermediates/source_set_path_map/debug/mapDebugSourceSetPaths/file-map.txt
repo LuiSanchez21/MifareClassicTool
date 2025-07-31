@@ -1,0 +1,54 @@
+de.syss.MifareClassicTool.app-appcompat-1.7.1-0 C:\Users\franc\.gradle\caches\transforms-4\13db6956cd3b0fd396613e4238eddcae\transformed\appcompat-1.7.1\res
+de.syss.MifareClassicTool.app-emoji2-1.3.0-1 C:\Users\franc\.gradle\caches\transforms-4\1aa74806d14a41916b57c265e7aa6688\transformed\emoji2-1.3.0\res
+de.syss.MifareClassicTool.app-lifecycle-livedata-2.6.2-2 C:\Users\franc\.gradle\caches\transforms-4\1c918049bf75392fa9d24e12311e882a\transformed\lifecycle-livedata-2.6.2\res
+de.syss.MifareClassicTool.app-core-viewtree-1.0.0-3 C:\Users\franc\.gradle\caches\transforms-4\2b5b0b9833ef84daf345059ebc597925\transformed\core-viewtree-1.0.0\res
+de.syss.MifareClassicTool.app-drawerlayout-1.1.1-4 C:\Users\franc\.gradle\caches\transforms-4\334d4ec85f03c01577b614acaa85de64\transformed\drawerlayout-1.1.1\res
+de.syss.MifareClassicTool.app-lifecycle-runtime-2.6.2-5 C:\Users\franc\.gradle\caches\transforms-4\367724dca070963843e610ee5d38573f\transformed\lifecycle-runtime-2.6.2\res
+de.syss.MifareClassicTool.app-lifecycle-runtime-ktx-2.6.2-6 C:\Users\franc\.gradle\caches\transforms-4\37faf20b41d0d513832c0deecc39012d\transformed\lifecycle-runtime-ktx-2.6.2\res
+de.syss.MifareClassicTool.app-activity-1.8.0-7 C:\Users\franc\.gradle\caches\transforms-4\3e85351e185fbe49f0fc5cec0839fd2d\transformed\activity-1.8.0\res
+de.syss.MifareClassicTool.app-material-1.8.0-8 C:\Users\franc\.gradle\caches\transforms-4\4f7784c4fc4da77ead975292e23769a1\transformed\material-1.8.0\res
+de.syss.MifareClassicTool.app-lifecycle-viewmodel-savedstate-2.6.2-9 C:\Users\franc\.gradle\caches\transforms-4\542a3c2d34c51e9090a29b02e5f4929e\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+de.syss.MifareClassicTool.app-appcompat-resources-1.7.1-10 C:\Users\franc\.gradle\caches\transforms-4\581a841a1e733522318fb19485aef5c4\transformed\appcompat-resources-1.7.1\res
+de.syss.MifareClassicTool.app-navigation-ui-2.5.3-11 C:\Users\franc\.gradle\caches\transforms-4\5d472b74fed456ab1ce9ba083455b08a\transformed\navigation-ui-2.5.3\res
+de.syss.MifareClassicTool.app-navigation-runtime-ktx-2.5.3-12 C:\Users\franc\.gradle\caches\transforms-4\62e01f4972a427b3086b51fd734ad329\transformed\navigation-runtime-ktx-2.5.3\res
+de.syss.MifareClassicTool.app-savedstate-1.2.1-13 C:\Users\franc\.gradle\caches\transforms-4\647939c0f54ccba5e0febcf5a9465484\transformed\savedstate-1.2.1\res
+de.syss.MifareClassicTool.app-core-1.16.0-14 C:\Users\franc\.gradle\caches\transforms-4\6d83d1120e72b885504958faccb1b043\transformed\core-1.16.0\res
+de.syss.MifareClassicTool.app-preference-1.2.1-15 C:\Users\franc\.gradle\caches\transforms-4\7246a82463c58079a3668fc08a18296a\transformed\preference-1.2.1\res
+de.syss.MifareClassicTool.app-lifecycle-viewmodel-2.6.2-16 C:\Users\franc\.gradle\caches\transforms-4\7715d8fc003d20c059e7880796762be2\transformed\lifecycle-viewmodel-2.6.2\res
+de.syss.MifareClassicTool.app-emoji2-views-helper-1.3.0-17 C:\Users\franc\.gradle\caches\transforms-4\7f5a1d0723f53dc5882b7903c44c2658\transformed\emoji2-views-helper-1.3.0\res
+de.syss.MifareClassicTool.app-coordinatorlayout-1.1.0-18 C:\Users\franc\.gradle\caches\transforms-4\83a61cc5522dfa9b5434df9dff152177\transformed\coordinatorlayout-1.1.0\res
+de.syss.MifareClassicTool.app-navigation-fragment-ktx-2.5.3-19 C:\Users\franc\.gradle\caches\transforms-4\846a95b01bbd18c6c87a8c2ef79c6bb0\transformed\navigation-fragment-ktx-2.5.3\res
+de.syss.MifareClassicTool.app-savedstate-ktx-1.2.1-20 C:\Users\franc\.gradle\caches\transforms-4\8a024c9839ed84d647bac866df1876c6\transformed\savedstate-ktx-1.2.1\res
+de.syss.MifareClassicTool.app-navigation-runtime-2.5.3-21 C:\Users\franc\.gradle\caches\transforms-4\9154074acf3437335bd5e6bb4222ec94\transformed\navigation-runtime-2.5.3\res
+de.syss.MifareClassicTool.app-tracing-1.2.0-22 C:\Users\franc\.gradle\caches\transforms-4\9276c1000905dcdd02e4381d41f219dc\transformed\tracing-1.2.0\res
+de.syss.MifareClassicTool.app-navigation-ui-ktx-2.5.3-23 C:\Users\franc\.gradle\caches\transforms-4\943652e6a04f0c36ce38b142804e5eee\transformed\navigation-ui-ktx-2.5.3\res
+de.syss.MifareClassicTool.app-cardview-1.0.0-24 C:\Users\franc\.gradle\caches\transforms-4\9462f59cf9c3968e4f904db4fc8cffe7\transformed\cardview-1.0.0\res
+de.syss.MifareClassicTool.app-annotation-experimental-1.4.1-25 C:\Users\franc\.gradle\caches\transforms-4\9c67458d4fa72173e363a87aebd09c0b\transformed\annotation-experimental-1.4.1\res
+de.syss.MifareClassicTool.app-navigation-common-ktx-2.5.3-26 C:\Users\franc\.gradle\caches\transforms-4\a05ebce5762f63677ed54423112de057\transformed\navigation-common-ktx-2.5.3\res
+de.syss.MifareClassicTool.app-core-runtime-2.2.0-27 C:\Users\franc\.gradle\caches\transforms-4\a4637f99fb443d046101c76d4beef3b5\transformed\core-runtime-2.2.0\res
+de.syss.MifareClassicTool.app-viewpager2-1.0.0-28 C:\Users\franc\.gradle\caches\transforms-4\a57321236e687accd8224650dfdd0fe9\transformed\viewpager2-1.0.0\res
+de.syss.MifareClassicTool.app-lifecycle-livedata-core-ktx-2.6.2-29 C:\Users\franc\.gradle\caches\transforms-4\a658b5ecbce9c381c24062fac4d13f5e\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+de.syss.MifareClassicTool.app-startup-runtime-1.1.1-30 C:\Users\franc\.gradle\caches\transforms-4\affc0e1ac8d8b46be427cc519b2ea558\transformed\startup-runtime-1.1.1\res
+de.syss.MifareClassicTool.app-window-1.0.0-31 C:\Users\franc\.gradle\caches\transforms-4\b6eede95c4dac9f074f4838d20b42f13\transformed\window-1.0.0\res
+de.syss.MifareClassicTool.app-core-ktx-1.16.0-32 C:\Users\franc\.gradle\caches\transforms-4\b7f0f317664dd2ab8482ecd85a320e87\transformed\core-ktx-1.16.0\res
+de.syss.MifareClassicTool.app-lifecycle-livedata-core-2.6.2-33 C:\Users\franc\.gradle\caches\transforms-4\b898fe8ed999b7ef02fc9f519de84112\transformed\lifecycle-livedata-core-2.6.2\res
+de.syss.MifareClassicTool.app-profileinstaller-1.3.1-34 C:\Users\franc\.gradle\caches\transforms-4\beb95842c72d9ac7aa1aff975b35072b\transformed\profileinstaller-1.3.1\res
+de.syss.MifareClassicTool.app-lifecycle-viewmodel-ktx-2.6.2-35 C:\Users\franc\.gradle\caches\transforms-4\c28955ae15edd443e706ff13eb321720\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+de.syss.MifareClassicTool.app-transition-1.4.1-36 C:\Users\franc\.gradle\caches\transforms-4\c352558bd4d41cf7d9375239a0298921\transformed\transition-1.4.1\res
+de.syss.MifareClassicTool.app-fragment-1.5.4-37 C:\Users\franc\.gradle\caches\transforms-4\c8196a9220829b102e0519778f2b2cc2\transformed\fragment-1.5.4\res
+de.syss.MifareClassicTool.app-fragment-ktx-1.5.4-38 C:\Users\franc\.gradle\caches\transforms-4\ce131ef706d542cc9d1045b32ae89bdc\transformed\fragment-ktx-1.5.4\res
+de.syss.MifareClassicTool.app-recyclerview-1.1.0-39 C:\Users\franc\.gradle\caches\transforms-4\d3678ed0cbe9173e99aa1ee8f63973e0\transformed\recyclerview-1.1.0\res
+de.syss.MifareClassicTool.app-navigation-fragment-2.5.3-40 C:\Users\franc\.gradle\caches\transforms-4\d603dfae75750b7e70e93c257e2c5c51\transformed\navigation-fragment-2.5.3\res
+de.syss.MifareClassicTool.app-slidingpanelayout-1.2.0-41 C:\Users\franc\.gradle\caches\transforms-4\d65f2bccf7b290b2cb634da0d641ef09\transformed\slidingpanelayout-1.2.0\res
+de.syss.MifareClassicTool.app-constraintlayout-2.1.4-42 C:\Users\franc\.gradle\caches\transforms-4\da7bcf7adc09c9a28defee102525e9ac\transformed\constraintlayout-2.1.4\res
+de.syss.MifareClassicTool.app-activity-ktx-1.8.0-43 C:\Users\franc\.gradle\caches\transforms-4\e7658662667567641f6297cc52b5e458\transformed\activity-ktx-1.8.0\res
+de.syss.MifareClassicTool.app-preference-ktx-1.2.1-44 C:\Users\franc\.gradle\caches\transforms-4\f6ce4903399b7d79e7c3113de8e50bc1\transformed\preference-ktx-1.2.1\res
+de.syss.MifareClassicTool.app-lifecycle-process-2.6.2-45 C:\Users\franc\.gradle\caches\transforms-4\f9d12b9749f94bd856c40d40b2e15840\transformed\lifecycle-process-2.6.2\res
+de.syss.MifareClassicTool.app-navigation-common-2.5.3-46 C:\Users\franc\.gradle\caches\transforms-4\fe449732561ccb3a48eb895df2fe7bcf\transformed\navigation-common-2.5.3\res
+de.syss.MifareClassicTool.app-pngs-47 C:\Users\franc\MifareClassicTool\Mifare Classic Tool\app\build\generated\res\pngs\debug
+de.syss.MifareClassicTool.app-resValues-48 C:\Users\franc\MifareClassicTool\Mifare Classic Tool\app\build\generated\res\resValues\debug
+de.syss.MifareClassicTool.app-packageDebugResources-49 C:\Users\franc\MifareClassicTool\Mifare Classic Tool\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+de.syss.MifareClassicTool.app-packageDebugResources-50 C:\Users\franc\MifareClassicTool\Mifare Classic Tool\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+de.syss.MifareClassicTool.app-debug-51 C:\Users\franc\MifareClassicTool\Mifare Classic Tool\app\build\intermediates\merged_res\debug\mergeDebugResources
+de.syss.MifareClassicTool.app-debug-52 C:\Users\franc\MifareClassicTool\Mifare Classic Tool\app\src\debug\res
+de.syss.MifareClassicTool.app-main-53 C:\Users\franc\MifareClassicTool\Mifare Classic Tool\app\src\main\res
