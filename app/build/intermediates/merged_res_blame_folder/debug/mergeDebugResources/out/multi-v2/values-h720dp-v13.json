@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "de.syss.MifareClassicTool.app-mergeDebugResources-49:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\franc\\.gradle\\caches\\transforms-4\\13db6956cd3b0fd396613e4238eddcae\\transformed\\appcompat-1.7.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
